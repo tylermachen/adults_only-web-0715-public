@@ -16,3 +16,6 @@ The adults class is where we'll be mixing in the Enumerable class.
 
 ## Yielding human adults
 The Adults class can have both people and dogs added to it. You will define an #each method that only yields actual adults; Person objects over the age of 18. 
+
+## Order
+Complete the Dog and Person class first since Adults uses them both.
