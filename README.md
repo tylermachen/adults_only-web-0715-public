@@ -1,7 +1,4 @@
----
-languages: ruby
-tags: modules, enumerable, mixins, bonus
----
+
 
 # Enumerable Module
 
